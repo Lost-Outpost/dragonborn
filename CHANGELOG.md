@@ -16,7 +16,7 @@
 
 # Changelog
 
-## Version 1.0.9 [Unreleased]
+## Version 1.0.9
 
 ### Added
 + Coherent Inn Prices + Bruma Patch
