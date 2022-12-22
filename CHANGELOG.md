@@ -18,6 +18,10 @@
 
 ## Version 1.0.9 [Unreleased]
 
+### Added
++ Coherent Inn Prices + Bruma Patch
++ Today's Menu
+
 ### Updated
 + Rebuilt LODGen and updated world map
 ### Fixed
