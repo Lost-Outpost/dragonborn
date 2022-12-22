@@ -16,7 +16,7 @@
 
 # Changelog
 
-## Version 1.0.9
+## Version 1.0.9 [Unreleased]
 
 ### Updated
 + Rebuilt LODGen and updated world map
