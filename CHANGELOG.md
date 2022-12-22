@@ -17,6 +17,13 @@
 # Changelog
 
 ## Version 1.0.8
+### Updated
++ Rebuilt LODGen and updated world map
+### Fixed
++ Fixed Veydosebrom grass for non ENB users
++ Fixed scrambled bugs for those on less than windows 10
+
+## Version 1.0.8
 
 ### Updated
 + Updated to latest SKSE and removed Stock Game
