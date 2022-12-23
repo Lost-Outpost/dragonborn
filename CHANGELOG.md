@@ -16,6 +16,16 @@
 
 # Changelog
 
+## Version 1.0.10
+
+### Added
++ Reshade Setup and Davinci Reshade
++ HQ Vanilla Tiny Rocks + Complex Grass Support
++ Completely redid pine forest grass
++ Added Nemesis Back for those who need it
+### Fixed
++ Pressing ESC now properly closes current menu
+
 ## Version 1.0.9
 
 ### Added
