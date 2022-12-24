@@ -16,6 +16,14 @@
 
 # Changelog
 
+## Version 1.0.11 [Unreleased]
+### Added
++ Lunaris
++ Natura
++ Antiquary
+### Fixed
++ Fixed issue with missing PO3Tweaks ini
+
 ## Version 1.0.10
 
 ### Added
