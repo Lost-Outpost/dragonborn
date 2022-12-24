@@ -17,10 +17,14 @@
 # Changelog
 
 ## Version 1.0.11 [Unreleased]
+
 ### Added
 + Lunaris
 + Natura
 + Antiquary
++ Improvement Names Customized (Was missing oops)
++ Creation Club - Adjustments Rebalancing and Variants
+
 ### Fixed
 + Fixed issue with missing PO3Tweaks ini
 
