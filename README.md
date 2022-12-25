@@ -114,7 +114,6 @@ The download and installation process can take a little while (an hour or more) 
 4. Select the created folder in step 1 as your installation folder
 5. Select the created folder in step 2 as your downloads folder
 6. Click the Go/Begin button and wait for Wabbajack to finish
-7. Set up creation club content for anniversary edition profile with instructions [here](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#creation-club-setup)
 
 ### Problems with Wabbajack
 
