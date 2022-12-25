@@ -21,7 +21,7 @@
   - [Minimum Specs](#minimum-specs)
   - [Community](#community)
 - [Installation](#installation)
-  - [Pre-Installation](#pre-installation)
+  - [Pre-Install](#pre-install)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
     - [Steam Library](#steam-library)
     - [Set the Game language to English](#set-the-game-language-to-english)
@@ -32,6 +32,7 @@
     - [Downloading and Installing](#downloading-and-installing)
       - [Problems with Wabbajack](#problems-with-wabbajack)
     - [Pagefile in prevention of memory crashes](#pagefile-in-prevention-of-memory-crashes)
+  - [Steam Deck](#steam-deck)
 - [Updating](#updating)
 - [Final Checklist for Dragonborn](#final-checklist-for-dragonborn)
 - [Gameplay Guide](#gameplay-guide)
@@ -67,7 +68,7 @@ This list requires anniversary edition and all creation club content. Make sure 
 
 Installation is handled through [Wabbajack](https://www.wabbajack.org/#/) with a one-click install of the modlist. There are some pre-installation steps which must be followed for first time users so please pay attention to those.
 
-## Pre-Installation
+## Pre-Install
 
 These steps are only needed if you install the Modlist for the first time. If you are updating the Modlist, jump straight to [Updating](#updating).
 
@@ -93,7 +94,7 @@ I highly recommend uninstalling the game through Steam, deleting the game folder
 
 [THIS](https://imgur.com/a/1dySo8q) is approximately what a clean Skyrim install should look like after shredding or cleaning it manually.
 
-## Start Skyrim
+### Start Skyrim
 Start the game and exit once you're in the main menu. This will ensure any settings files needed by Wabbajack are created in the Skyrim directory.
 
 ## Using Wabbajack
@@ -138,6 +139,10 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 ### Pagefile in prevention of memory crashes
 
 Bigger Skyrim modlists need a lot of memory, and when there is not enough available it may fail allocating more. To fix this, you'll want to have a bigger <a href="PAGEFILE.md" target="_blank">pagefile</a>.
+
+## Steam Deck
+
+This modlist can be played on Steam Deck and special care has been taken to make sure performance is acceptable there. You can view the steam deck install instructions [here](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/Skyrim-Dragonborn) after you finish the normal install.
 
 # Updating
 
