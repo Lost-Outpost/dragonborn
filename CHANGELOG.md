@@ -16,7 +16,7 @@
 
 # Changelog
 
-## Version 1.0.12 [Unreleased]
+## Version 1.0.12
 
 ### Added
 + Constructible Object Custom Keyword System
