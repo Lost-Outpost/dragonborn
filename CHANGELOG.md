@@ -27,6 +27,7 @@
 ### Fixed
 + Draugr chests no longer contain excessive amounts of enchanted gear
 + Sprint should be working fully on controllers now
++ Removed duplicate falmer blood elixir dialogue
 
 ### Removed
 + Shrubs Redone AIO (Wasn't really needed)
