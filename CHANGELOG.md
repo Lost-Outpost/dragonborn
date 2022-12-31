@@ -16,6 +16,21 @@
 
 # Changelog
 
+## Version 1.0.12 [Unreleased]
+
+### Added
++ Constructible Object Custom Keyword System
++ Cathedral - 3D Nightshade
++ Remember Lockpick Angle (Perk Version)
++ Wider MCM Menu
+
+### Fixed
++ Draugr chests no longer contain excessive amounts of enchanted gear
++ Sprint should be working fully on controllers now
+
+### Removed
++ Shrubs Redone AIO (Wasn't really needed)
+
 ## Version 1.0.11
 
 ### Added
