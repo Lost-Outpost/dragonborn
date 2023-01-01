@@ -16,6 +16,11 @@
 
 # Changelog
 
+## Version 1.0.14
+
+### Fixed
++ Fixed all NPC Facegen and hair
+
 ## Version 1.0.13
 
 ### Added
