@@ -19,13 +19,16 @@
 ## Version 1.0.13 [Unreleased]
 
 ### Added
++ Press H to Horse
++ Custom Alcohol Crafting Recipes
++ Craftable Lockpicks
++ Craftable Scrolls
 
 ### Updated
 + Packed Terrain LOD into BSA
 
 ### Fixed
 + Fixed Scrambled Bugs Settings
-+ 
 
 ## Version 1.0.12
 
