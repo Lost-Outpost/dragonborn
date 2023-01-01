@@ -29,6 +29,7 @@
 
 ### Fixed
 + Fixed Scrambled Bugs Settings
++ Fixed purple high hrothgar wind
 
 ## Version 1.0.12
 
