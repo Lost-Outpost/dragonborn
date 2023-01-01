@@ -16,6 +16,17 @@
 
 # Changelog
 
+## Version 1.0.13 [Unreleased]
+
+### Added
+
+### Updated
++ Packed Terrain LOD into BSA
+
+### Fixed
++ Fixed Scrambled Bugs Settings
++ 
+
 ## Version 1.0.12
 
 ### Added
