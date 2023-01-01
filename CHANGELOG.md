@@ -26,6 +26,7 @@
 
 ### Updated
 + Packed Terrain LOD into BSA
++ Natura and Adamant Patch
 
 ### Fixed
 + Fixed Scrambled Bugs Settings
