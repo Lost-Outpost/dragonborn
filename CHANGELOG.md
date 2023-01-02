@@ -16,6 +16,11 @@
 
 # Changelog
 
+## Version 1.0.15
+
+### Added
++ Custom Balance patch for Dragonplate CC and Headsman's Cleaver CC
+
 ## Version 1.0.14
 
 ### Fixed
