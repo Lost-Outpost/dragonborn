@@ -20,6 +20,9 @@
 
 ### Added
 + Custom Balance patch for Dragonplate CC and Headsman's Cleaver CC
++ Fearsome Fists - Thaumaturgy Patch
++ Bandit Brawlers - Fearsome Fists Patch
++ Bandit Brawlers - Hand to Hand Patch
 
 ## Version 1.0.14
 
