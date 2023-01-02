@@ -167,3 +167,4 @@ Dragonborn includes a minimalistic and modern UI, featuring:
 ## Enemies
 - [Alpha Wolves](https://www.nexusmods.com/skyrimspecialedition/mods/47735) - It adds spawn data to the alpha wolf that already existed in the game but does not appear in any part of the world.
 - [Bandit Brawlers](https://www.nexusmods.com/skyrimspecialedition/mods/45884) - Bandit Brawlers are tanky hand-to-hand fighters that wear heavy armor and utilize the power of their armored fists to deal damage.
+- [Bandit Spellswords](https://www.nexusmods.com/skyrimspecialedition/mods/81791) - These warriors supplement their combat skills with magical power, forcing players to protect against both blade and spell.
