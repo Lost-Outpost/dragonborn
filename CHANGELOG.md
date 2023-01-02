@@ -16,6 +16,12 @@
 
 # Changelog
 
+## Version 1.0.17
+
+### Updated
++ Reworked Timing is Everything Config
++ Forceful Tongue - Shouts Overhaul
+
 ## Version 1.0.16
 
 ### Added
