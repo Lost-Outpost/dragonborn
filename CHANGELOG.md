@@ -16,6 +16,12 @@
 
 # Changelog
 
+## Version 1.0.16
+
+### Added
++ Custom Natura and Lunaris Integration
++ Bandit Spellswords
+
 ## Version 1.0.15
 
 ### Added
