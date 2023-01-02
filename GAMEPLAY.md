@@ -28,7 +28,7 @@ This guide highlights major mods included in Dragonborn in the following categor
 - [Optional Quick Start](#optional-quick-start)
 - [Gameplay](#gameplay)
 - [User Interface and Camera](#user-interface-and-camera)
-- [Gear](#gear)
+- [Gear and Items](#gear-and-items)
 - [Followers and Companions](#followers-and-companions)
 - [Homes](#homes)
 - [Quests](#quests)
@@ -147,7 +147,7 @@ Dragonborn includes a minimalistic and modern UI, featuring:
 
 - [TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775) - Customizable actor info bars, boss bars, and player widget
 
-## Gear
+## Gear and Items
 
 ### Rebalanced Items
 
