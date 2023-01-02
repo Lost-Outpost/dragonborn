@@ -26,7 +26,7 @@ This guide highlights major mods included in Dragonborn in the following categor
 
 - [Hotkeys](#hotkeys)
 - [Optional Quick Start](#optional-quick-start)
-- [Gampeplay](#gameplay)
+- [Gameplay](#gameplay)
 - [User Interface and Camera](#user-interface-and-camera)
 - [Gear](#gear)
 - [Followers and Companions](#followers-and-companions)
