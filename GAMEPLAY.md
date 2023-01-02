@@ -28,6 +28,13 @@ This guide highlights major mods included in Dragonborn in the following categor
 - [Optional Quick Start](#optional-quick-start)
 - [Gampeplay](#gameplay)
 - [User Interface and Camera](#user-interface-and-camera)
+- [Gear](#gear)
+- [Followers and Companions](#followers-and-companions)
+- [Homes](#homes)
+- [Quests](#quests)
+- [Quest Timing](#quest-timing)
+- [Enemies](#enemies)
+- [Locations](#locations)
 
 Icons in this guide:
 
@@ -98,6 +105,7 @@ Dragonborn is built around the [Simon Magus (SimonRim)](https://www.nexusmods.co
 - [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099) - Rebalance and rework of religion
 
 - [Scion](https://www.nexusmods.com/skyrimspecialedition/mods/41639) - Rebalances and improves Vampires including changes that make both Stage 1 and Stage 4 vampirism desirable
+  - :ledger: Enhanced by [Scion - Vampiric Sunscreen Condition Patch](https://www.nexusmods.com/skyrimspecialedition/mods/42212)  - You can turn this optional mod on to prevent Weakness to Sunlight effects if you are wearing headgear. You can find it under the "Optional Mods" separator.
 
 - [Manbeast](https://www.nexusmods.com/skyrimspecialedition/mods/44746) - Rebalance and content addon for werewolves which introduces new perks and abilities
 
@@ -113,7 +121,11 @@ In addition to SimonRim, this list includes:
 
 - [Arachnomancy - A Spider Scrolls Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/67272) - A complete overhaul of Skyrim's spider scrolls crafting system designed to balance existing spiders while adding powerful new ones
 
-- [Legion - A Bruma Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/60848) - An overhaul of how encounters work in the Bruma region, inspired by Arena's handling of encounter zones. Enemies will be leveled similar to Solstheimn enemies on Arena.
+- [Legion - A Bruma Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/60848) - An overhaul of how encounters work in the Bruma region, inspired by Arena's handling of encounter zones. Enemies will be leveled similar to Solstheimn enemies on Arena
+
+- [Survival Mode Improved - SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/78244) - Improves and balances the game's survival mode
+
+- [Ish's Respec Mod](https://www.nexusmods.com/skyrimspecialedition/mods/1960) - Adds a potion for sale at your neighborhood alchemist that lets you respec perk points
 
 ## User Interface and Camera
 
@@ -134,3 +146,16 @@ Dragonborn includes a minimalistic and modern UI, featuring:
   > :ledger: By default, use the <kbd>Middle Mouse Button</kbd> to lock on to enemies and the <kbd>Middle Mouse Wheel</kbd> to switch targets.
 
 - [TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775) - Customizable actor info bars, boss bars, and player widget
+
+## Gear
+
+Dragonborn does not currently include an artifacts mod. But there are mods and patches that balance Creation Club items and [Thamaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) takes care of balancing vanilla enchanted items and gear.
+
+### New Gear
+
+- [Dawnguard Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/25094) - Completes the Dawnguard weapon collection and distributes the armor weapons to the members as well.
+
+- [New Armory Series - Ashen Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/72728) 
+- [New Armory Series - Lunar Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/69438)
+- [Royal Armory - New Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/6994) - New weapons to the important people of Skyrim
+- [Kthonia's Unique Weapon Pack - Dragonborn Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/15050)
