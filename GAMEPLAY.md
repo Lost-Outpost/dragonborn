@@ -149,11 +149,13 @@ Dragonborn includes a minimalistic and modern UI, featuring:
 
 ## Gear
 
-Dragonborn does not currently include an artifacts mod. But there are mods and patches that balance Creation Club items and [Thamaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) takes care of balancing vanilla enchanted items and gear.
+### Rebalanced Items
+
+- [Antiquary](https://www.nexusmods.com/skyrimspecialedition/mods/44413) - Antiquary is an artifact overhaul, turning vanilla’s boring and underpowered artifacts into the relics of legend they’re meant to be.
 
 ### New Gear
 
-- [Dawnguard Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/25094) - Completes the Dawnguard weapon collection and distributes the armor weapons to the members as well.
+- [Dawnguard Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/25094) - Completes the Dawnguard weapon collection and distributes the armor weapons to the members as well. `NOTE: Contains many custom edits for this modlist`
 
 - [New Armory Series - Ashen Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/72728) 
 - [New Armory Series - Lunar Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/69438)
