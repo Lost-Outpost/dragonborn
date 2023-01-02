@@ -29,6 +29,8 @@ This guide highlights major mods included in Dragonborn in the following categor
 - [Gameplay](#gameplay)
 - [User Interface and Camera](#user-interface-and-camera)
 - [Gear and Items](#gear-and-items)
+  - [Rebalanced Items](#rebalanced-items)
+  - [New Gear](#new-gear) 
 - [Followers and Companions](#followers-and-companions)
 - [Homes](#homes)
 - [Quests](#quests)
@@ -161,3 +163,7 @@ Dragonborn includes a minimalistic and modern UI, featuring:
 - [New Armory Series - Lunar Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/69438)
 - [Royal Armory - New Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/6994) - New weapons to the important people of Skyrim
 - [Kthonia's Unique Weapon Pack - Dragonborn Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/15050)
+
+## Enemies
+- [Alpha Wolves](https://www.nexusmods.com/skyrimspecialedition/mods/47735) - It adds spawn data to the alpha wolf that already existed in the game but does not appear in any part of the world.
+- [Bandit Brawlers](https://www.nexusmods.com/skyrimspecialedition/mods/45884) - Bandit Brawlers are tanky hand-to-hand fighters that wear heavy armor and utilize the power of their armored fists to deal damage.
