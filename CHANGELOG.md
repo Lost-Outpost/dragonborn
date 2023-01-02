@@ -18,9 +18,6 @@
 
 ## Version 1.0.17
 
-### Added
-+ Vargr - A Draugr Hound
-
 ### Updated
 + Reworked Timing is Everything Config
 + Forceful Tongue - Shouts Overhaul
