@@ -38,7 +38,6 @@
 - [Gameplay Guide](#gameplay-guide)
 - [Configuration](#configuration)
 - [Issues](#issues)
-- [Addons](#addons)
 - [Dragonborn Team](#dragonborn-team)
 
 # Introduction
