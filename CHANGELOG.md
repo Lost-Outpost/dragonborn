@@ -16,6 +16,18 @@
 
 # Changelog
 
+## Version 1.0.19
+
+### Added
++ Cathedral - Armory (BSA Packed)
+
+### Removed
++ Modular Armory (Caused Crashes with certain armor)
++ Whispering Door Quest Expansion :(((
+
+### Fixed
++ Enthir should now properly sell mysticism destruction spells
+
 ## Version 1.0.18
 ### Added
 + Beyond Skyrim Bruma - CC Zombie Consistency
