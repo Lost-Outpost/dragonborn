@@ -34,7 +34,6 @@
     - [Pagefile in prevention of memory crashes](#pagefile-in-prevention-of-memory-crashes)
   - [Steam Deck](#steam-deck)
 - [Updating](#updating)
-- [Configuration](#configuration)
 - [Issues](#issues)
 - [Dragonborn Team](#dragonborn-team)
 
