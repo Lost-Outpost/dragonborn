@@ -39,7 +39,7 @@
 - [Configuration](#configuration)
 - [Issues](#issues)
 - [Addons](#addons)
-- [Dragonborn Team](#septimus-team)
+- [Dragonborn Team](#dragonborn-team)
 
 # Introduction
 
