@@ -26,7 +26,9 @@ This guide highlights major mods included in Dragonborn in the following categor
 
 - [Hotkeys](#hotkeys)
 - [Optional Quick Start](#optional-quick-start)
-- [Gameplay](#gameplay)
+- [Gameplay and New Mechanics](#gameplay-and-new-mechanics)
+  - [Gameplay Overhauls](#gameplay-overhauls)
+  - [New Mechanics](#new-mechanics)
 - [User Interface and Camera](#user-interface-and-camera)
 - [Gear and Items](#gear-and-items)
   - [Rebalanced Items](#rebalanced-items)
@@ -84,9 +86,11 @@ Icons in this guide:
 
 Dragonborn includes [Optional Quick Start - SE](https://www.nexusmods.com/skyrimspecialedition/mods/63953), which you can use to skip the traditional cart ride and begin your Dragonborn journey at the end of Helgen Keep. The mod also gives you some starting equipment.
 
-## Gameplay
+## Gameplay and New Mechanics
 
 Dragonborn is built around the [Simon Magus (SimonRim)](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files) gameplay overhaul. SimonRim remasters various systems in Skyrim in a cohesive way that stays true to the original while improving the balance and gameplay. The full SimonRim list:
+
+### Gameplay Overhauls
 
 - [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) - Overhauls and introduces new perks increasing build diversity
 
@@ -127,6 +131,12 @@ In addition to SimonRim, this list includes:
 
 - [Survival Mode Improved - SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/78244) - Improves and balances the game's survival mode
 
+### New Mechanics
+
+- [Ancient Knowledge - Automaton Summoning](https://www.nexusmods.com/skyrimspecialedition/mods/71560) - Allows the crafting of automaton summoning scrolls when you have obtained the Ancient Knowledge perk. Unlock more automaton crafting options as you increase your Smithing level.
+
+- [Simple Scroll Transcribing](https://www.nexusmods.com/skyrimspecialedition/mods/73450) - Adds simple, lightweight scroll transcribing stations to court wizards' environs and The Arcanaeum.
+
 - [Ish's Respec Mod](https://www.nexusmods.com/skyrimspecialedition/mods/1960) - Adds a potion for sale at your neighborhood alchemist that lets you respec perk points
 
 ## User Interface and Camera
@@ -159,12 +169,17 @@ Dragonborn includes a minimalistic and modern UI, featuring:
 
 - [Dawnguard Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/25094) - Completes the Dawnguard weapon collection and distributes the armor weapons to the members as well. `NOTE: Contains many custom edits for this modlist`
 
-- [New Armory Series - Ashen Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/72728) 
+- [New Armory Series - Ashen Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/72728)
+
 - [New Armory Series - Lunar Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/69438)
+
 - [Royal Armory - New Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/6994) - New weapons to the important people of Skyrim
+
 - [Kthonia's Unique Weapon Pack - Dragonborn Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/15050)
 
 ## Enemies
 - [Alpha Wolves](https://www.nexusmods.com/skyrimspecialedition/mods/47735) - It adds spawn data to the alpha wolf that already existed in the game but does not appear in any part of the world.
+
 - [Bandit Brawlers](https://www.nexusmods.com/skyrimspecialedition/mods/45884) - Bandit Brawlers are tanky hand-to-hand fighters that wear heavy armor and utilize the power of their armored fists to deal damage.
+
 - [Bandit Spellswords](https://www.nexusmods.com/skyrimspecialedition/mods/81791) - These warriors supplement their combat skills with magical power, forcing players to protect against both blade and spell.
