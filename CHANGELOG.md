@@ -16,6 +16,11 @@
 
 # Changelog
 
+## Version 1.0.18
+### Added
++ Beyond Skyrim Bruma - CC Zombie Consistency
++ Instinct - Animal Taming
+
 ## Version 1.0.17
 
 ### Updated
