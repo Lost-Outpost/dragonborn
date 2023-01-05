@@ -154,7 +154,7 @@ Updating is like installing. You only have to make sure that you select the same
 
 If you find an issue, you can see if it is already on the list of [known issues](HELP.md), which also documents solutions and workarounds.
 
-For issues that aren't yet [known](HELP.md), you can provide details in the [Dragonborn Github](https://github.com/Guitarninja2/septimus/issues). Please provide as much info as you can (screenshots are great).
+For issues that aren't yet [known](HELP.md), you can provide details in the [Dragonborn Github](https://github.com/Lost-Outpost/dragonborn/issues). Please provide as much info as you can (screenshots are great).
 
 Finally, free feel to hop on the Dragonborn Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu).
 
