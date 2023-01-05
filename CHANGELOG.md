@@ -16,6 +16,18 @@
 
 # Changelog
 
+## Version 1.0.20
+
+### Added
++ Missile's Apothecary Patches
++ New Armory - Elven Steel (Custom Cut)
++ Bogmort - Bog Monsters
++ Faction Pit Fighter + Travels
++ Faction - Pit Fighter Revamped
++ Moon and Star USSEP Dock Fix
++ Better Lighting for Moon and Star
++ Sunder and Wraithguard Vault Fix
+
 ## Version 1.0.19
 
 ### Added
