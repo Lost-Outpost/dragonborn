@@ -16,6 +16,17 @@
 
 # Changelog
 
+## Version 1.0.21
+
+### Added
++ Radiant Requirements - MCM
++ Enhanced Blood Textures
++ KS Hairs Lite
++ Vanilla Hair for KS Hairs
+
+### Fixed
++ Load order issue with bogmort apothecary patches
+
 ## Version 1.0.20
 
 ### Added
