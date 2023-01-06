@@ -23,6 +23,8 @@
 + Enhanced Blood Textures
 + KS Hairs Lite
 + Vanilla Hair for KS Hairs
++ Sforzinda Destinations (Additional carriage stops)
++ HD Reworked Horses
 
 ### Fixed
 + Load order issue with bogmort apothecary patches
