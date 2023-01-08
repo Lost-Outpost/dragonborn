@@ -16,6 +16,15 @@
 
 # Changelog
 
+## Version 1.0.25
+
+### Added
++ Draugr Warhounds
++ Follower Trap Safety
+
+### Fixed
++ Fixed issue with Malkoran's outfit
+
 ## Version 1.0.24
 
 ### Added
