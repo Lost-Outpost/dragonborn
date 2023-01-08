@@ -16,6 +16,12 @@
 
 # Changelog
 
+## Version 1.0.24
+
+### Added
++ Immersive College NPCs + Custom Ultralite Patch
++ Dragonbroth Stew Mod :)
+
 ## Version 1.0.23
 
 ### Added
