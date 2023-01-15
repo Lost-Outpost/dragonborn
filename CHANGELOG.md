@@ -35,7 +35,6 @@ In this update, I wanted to re-do the creation club integration a little bit to 
 + Base Object Swapper
 
 ### Removed
-+ Redguard Elite - Reintegration (Keeping CC Quests)
 + The Cause - Reduced Cut (Want to keep CC Quests)
 + Homes Under the Warhammer (Covered by RAE Quest Requirements)
 + Fishing - Reduced Cut (Was just not necessary really)
