@@ -25,7 +25,9 @@ On your journey through the Dragonborn version of Skyrim, you will find a perfor
 This guide highlights major mods included in Dragonborn in the following categories:
 
 - [Hotkeys](#hotkeys)
-- [Gameplay](#gameplay)
+- [Gameplay Changes](#gameplay-changes)
+  - [Overhauls](#overhauls)
+  - [New Mechanics](#new-mechanics)
 - [User Interface and Camera](#user-interface-and-camera)
 - [Gear and Items](#gear-and-items)
 - [Followers and Companions](#followers-and-companions)
