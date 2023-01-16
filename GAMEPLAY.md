@@ -60,7 +60,7 @@ Icons in this guide:
 
 - <kbd>X</kbd> - Toggles compass visibility
 
-- <kbd>CTRL</kbd> - Toggles sneaking (without weapons drawn) or performs dodge (with weapons drawn) using [The Ultimate Dodge Mod Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/63000)
+- <kbd>CTRL</kbd> - Toggles sneaking
 
 - <kbd>SHIFT</kbd> - Toggles sprinting
 
@@ -80,11 +80,9 @@ Icons in this guide:
 
 - <kbd>Home</kbd> - Toggles ReShade on/off
 
-## Optional Quick Start
-
-Dragonborn includes [Optional Quick Start - SE](https://www.nexusmods.com/skyrimspecialedition/mods/63953), which you can use to skip the traditional cart ride and begin your Dragonborn journey at the end of Helgen Keep. The mod also gives you some starting equipment.
-
 ## Gameplay
+
+- [Optional Quick Start - SE](https://www.nexusmods.com/skyrimspecialedition/mods/63953) - Skip the traditional cart ride and begin your Dragonborn journey at the end of Helgen Keep. The mod also gives you some starting equipment.
 
 Dragonborn is built around the [Simon Magus (SimonRim)](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files) gameplay overhaul. SimonRim remasters various systems in Skyrim in a cohesive way that stays true to the original while improving the balance and gameplay. The full SimonRim list:
 
