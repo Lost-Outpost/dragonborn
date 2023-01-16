@@ -176,7 +176,6 @@ Dragonborn uses [Antiquary - Enhanced Artifacts](https://www.nexusmods.com/skyri
 - [New Armory Series - Lunar Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/69438)
 - [New Armory Series - Elven Steel Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/78888)
 - [Royal Armory - New Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/6994) - New weapons to the important people of Skyrim
-- [Kthonia's Unique Weapon Pack - Dragonborn Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/15050)
 
 ## Followers and Companions
 
