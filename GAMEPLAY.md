@@ -32,6 +32,7 @@ This guide highlights major mods included in Dragonborn in the following categor
 - [Player Homes](#player-homes)
 - [Quests and Adventures](#quests-and-adventures)
   - [New Quests](#new-quests)
+  - [Quest Changes](#quest-changes)
 - [Locations and Detail](#locations-and-detail)
 
 Icons in this guide:
