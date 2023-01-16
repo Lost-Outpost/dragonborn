@@ -29,9 +29,10 @@ This guide highlights major mods included in Dragonborn in the following categor
 - [User Interface and Camera](#user-interface-and-camera)
 - [Gear and Items](#gear-and-items)
 - [Followers and Companions](#followers-and-companions)
-- [Homes](#homes)
-- [Quests](#quests)
-- [Locations](#locations)
+- [Player Homes](#player-homes)
+- [Quests and Adventures](#quests-and-adventures)
+  - [New Quests](#new-quests)
+- [Locations and Detail](#locations-and-detail)
 
 Icons in this guide:
 
@@ -186,7 +187,7 @@ Dragonborn uses [Antiquary - Enhanced Artifacts](https://www.nexusmods.com/skyri
 
 - [Dovahkiin's Vault](https://www.nexusmods.com/skyrimspecialedition/mods/42237) - A small vault in the Throat of the World for storing away all those sketchy arcane objects in a safe location away from innocent people and your family. Only accessible with Clear Skies shout
 
-## Quests
+## Quests and Adventures
 
 ### New Quests
 
