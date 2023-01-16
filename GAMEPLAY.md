@@ -85,7 +85,7 @@ Icons in this guide:
 
 ## Gameplay
 
-- [Optional Quick Start - SE](https://www.nexusmods.com/skyrimspecialedition/mods/63953) - Skip the traditional cart ride and begin your Dragonborn journey at the end of Helgen Keep. The mod also gives you some starting equipment.
+### Overhauls
 
 Dragonborn is built around the [Simon Magus (SimonRim)](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files) gameplay overhaul. SimonRim remasters various systems in Skyrim in a cohesive way that stays true to the original while improving the balance and gameplay. The full SimonRim list:
 
@@ -129,6 +129,10 @@ In addition to SimonRim, this list includes:
 - [Survival Mode Improved - SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/78244) - Improves and balances the game's survival mode
 
 - [Ish's Respec Mod](https://www.nexusmods.com/skyrimspecialedition/mods/1960) - Adds a potion for sale at your neighborhood alchemist that lets you respec perk points
+
+### New Mechanics
+
+- [Optional Quick Start - SE](https://www.nexusmods.com/skyrimspecialedition/mods/63953) - Skip the traditional cart ride and begin your Dragonborn journey at the end of Helgen Keep. The mod also gives you some starting equipment.
 
 - [Instincts - Animal Taming in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/63224) - New mechanic to tame wild animals as followers and companions
 
