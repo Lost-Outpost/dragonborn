@@ -26,18 +26,12 @@ This guide highlights major mods included in Dragonborn in the following categor
 
 - [Hotkeys](#hotkeys)
 - [Optional Quick Start](#optional-quick-start)
-- [Gameplay and New Mechanics](#gameplay-and-new-mechanics)
-  - [Gameplay Overhauls](#gameplay-overhauls)
-  - [New Mechanics](#new-mechanics)
+- [Gameplay](#gameplay)
 - [User Interface and Camera](#user-interface-and-camera)
-- [Gear and Items](#gear-and-items)
-  - [Rebalanced Items](#rebalanced-items)
-  - [New Gear](#new-gear) 
+- [Gear](#gear)
 - [Followers and Companions](#followers-and-companions)
 - [Homes](#homes)
 - [Quests](#quests)
-- [Quest Timing](#quest-timing)
-- [Enemies](#enemies)
 - [Locations](#locations)
 
 Icons in this guide:
@@ -66,7 +60,7 @@ Icons in this guide:
 
 - <kbd>X</kbd> - Toggles compass visibility
 
-- <kbd>CTRL</kbd> - Toggles sneaking
+- <kbd>CTRL</kbd> - Toggles sneaking (without weapons drawn) or performs dodge (with weapons drawn) using [The Ultimate Dodge Mod Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/63000)
 
 - <kbd>SHIFT</kbd> - Toggles sprinting
 
@@ -82,15 +76,17 @@ Icons in this guide:
 
 - <kbd>F11</kbd> - Toggles ENB configuration, provided you are using ENB
 
+### ReShade Hotkeys
+
+- <kbd>Home</kbd> - Toggles ReShade on/off
+
 ## Optional Quick Start
 
 Dragonborn includes [Optional Quick Start - SE](https://www.nexusmods.com/skyrimspecialedition/mods/63953), which you can use to skip the traditional cart ride and begin your Dragonborn journey at the end of Helgen Keep. The mod also gives you some starting equipment.
 
-## Gameplay and New Mechanics
+## Gameplay
 
 Dragonborn is built around the [Simon Magus (SimonRim)](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files) gameplay overhaul. SimonRim remasters various systems in Skyrim in a cohesive way that stays true to the original while improving the balance and gameplay. The full SimonRim list:
-
-### Gameplay Overhauls
 
 - [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) - Overhauls and introduces new perks increasing build diversity
 
@@ -131,13 +127,17 @@ In addition to SimonRim, this list includes:
 
 - [Survival Mode Improved - SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/78244) - Improves and balances the game's survival mode
 
-### New Mechanics
-
-- [Ancient Knowledge - Automaton Summoning](https://www.nexusmods.com/skyrimspecialedition/mods/71560) - Allows the crafting of automaton summoning scrolls when you have obtained the Ancient Knowledge perk. Unlock more automaton crafting options as you increase your Smithing level.
-
-- [Simple Scroll Transcribing](https://www.nexusmods.com/skyrimspecialedition/mods/73450) - Adds simple, lightweight scroll transcribing stations to court wizards' environs and The Arcanaeum.
-
 - [Ish's Respec Mod](https://www.nexusmods.com/skyrimspecialedition/mods/1960) - Adds a potion for sale at your neighborhood alchemist that lets you respec perk points
+
+- [Instincts - Animal Taming in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/63224) - New mechanic to tame wild animals as followers and companions
+
+- [Simple Scroll Transcribing](nexusmods.com/skyrimspecialedition/mods/73450) - Adds scroll transcription stations to court wizard's environments and the Arcaneum
+
+- [Natura](nexusmods.com/skyrimspecialedition/mods/77826) - New Nature themed spells balanced similarly to Mysticism and new Spriggan types
+
+- [Lunaris](nexusmods.com/skyrimspecialedition/mods/80852) - New moon spells that act as a counterpart of sun spells, balanced similar to Mysticism
+
+- [Canis Hysteria - The Werewolf Disease](https://www.nexusmods.com/skyrimspecialedition/mods/52397) - Adds a new contractible lycanthrope disease
 
 ## User Interface and Camera
 
@@ -159,27 +159,106 @@ Dragonborn includes a minimalistic and modern UI, featuring:
 
 - [TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775) - Customizable actor info bars, boss bars, and player widget
 
-## Gear and Items
+## Gear
 
-### Rebalanced Items
-
-- [Antiquary](https://www.nexusmods.com/skyrimspecialedition/mods/44413) - Antiquary is an artifact overhaul, turning vanilla’s boring and underpowered artifacts into the relics of legend they’re meant to be.
+Dragonborn uses [Antiquary - Enhanced Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/44413) to overhaul artifacts. In additon to this, there are mods and patches that balance Creation Club items and [Thamaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) takes care of balancing vanilla enchanted items and gear.
 
 ### New Gear
 
-- [Dawnguard Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/25094) - Completes the Dawnguard weapon collection and distributes the armor weapons to the members as well. `NOTE: Contains many custom edits for this modlist`
+- [Dawnguard Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/25094) - Completes the Dawnguard weapon collection and distributes the armor weapons to the members as well.
 
-- [New Armory Series - Ashen Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/72728)
-
+- [New Armory Series - Ashen Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/72728) 
 - [New Armory Series - Lunar Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/69438)
-
+- [New Armory Series - Elven Steel Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/78888)
 - [Royal Armory - New Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/6994) - New weapons to the important people of Skyrim
-
 - [Kthonia's Unique Weapon Pack - Dragonborn Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/15050)
 
-## Enemies
-- [Alpha Wolves](https://www.nexusmods.com/skyrimspecialedition/mods/47735) - It adds spawn data to the alpha wolf that already existed in the game but does not appear in any part of the world.
+## Followers and Companions
 
-- [Bandit Brawlers](https://www.nexusmods.com/skyrimspecialedition/mods/45884) - Bandit Brawlers are tanky hand-to-hand fighters that wear heavy armor and utilize the power of their armored fists to deal damage.
+- [Gladys The Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/50164) - Adds a friendly corgi companion to join you on your adventures!
 
-- [Bandit Spellswords](https://www.nexusmods.com/skyrimspecialedition/mods/81791) - These warriors supplement their combat skills with magical power, forcing players to protect against both blade and spell.
+  > :video_game: You can find Gladys for sale at the Solitude docks in front of the East Empire Company Warehouse
+
+- [Merlin The Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/56433) - Adds a magical corgi companion to join you on your adventures!
+
+  > :video_game: You can find Merlin at the Summoning Circle just north of Morthal
+
+## Homes
+
+- [Naaslaarum - A Forgotten Vale Player Home](https://www.nexusmods.com/skyrimspecialedition/mods/75180) - Adds a player home to the Forgotten Vale with a great view of the ice falls
+
+- [Dovahkiin's Vault](https://www.nexusmods.com/skyrimspecialedition/mods/42237) - A small vault in the Throat of the World for storing away all those sketchy arcane objects in a safe location away from innocent people and your family. Only accessible with Clear Skies shout
+
+## Quests
+
+### New Quests
+
+- [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565) - Travel to a new DLC-sized island and investigate a powerful dragon for the East Empire Company.
+
+  > :video_game: To begin, Wyrmstooth automatically starts once the player reaches level 10 and has finished Way of the Voice in the main questline
+
+- [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917) - Beyond Skyrim - Bruma introduces a completely new DLC-sized area south of Skyrim with many new quests and encounters to be had.
+
+  > :video_game: To begin, head to Pale Pass southeast of Falkreath
+
+- [Moon and Star](https://www.nexusmods.com/skyrimspecialedition/mods/4301) - Investigate a mysterious powerful individual in skyrim. There may be more to this individual than it seems.
+
+  > :video_game: To begin, a courier should give you a letter to start the quest. Otherwise, you can go to the Sleeping Giant Inn in Riverwood and find the quest giver on your own
+
+- [Depths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/26913) - Overhauls the underwater environment and adds content to the Sea of Ghosts
+
+  > :video_game: To begin, swim in the Sea of Ghosts
+
+- [Faction - Pit Fighter](https://www.nexusmods.com/skyrimspecialedition/mods/22513) - Pit Fighter contains an all new faction to join, complete with NPCs, progression through the ranks, unique rewards and side quests.
+
+  > :video_game: To begin, compete in a variety of locations from Windhelms old Arena to Orc Strongholds and Smuggler fighting rings
+
+### Quest Changes
+
+Dragonborn includes [jayserpa's](https://www.nexusmods.com/skyrimspecialedition/users/5201727) quest expansions that adds immersion and several pathways to finish vanilla quests
+
+- [House of Horrors - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57285) - Expands Molag Bal's daedric quest, giving you the option of choosing an alternative "good guy" route to finish the vanilla quest
+
+- [Paarthurnax - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/51711) - A fully voiced, quite expanded new take on the quest Paarthurnax, giving both the Blades and Paarthurnax good reasons for their stances, and you, Dragonborn, the final choice
+
+- [The Only Cure - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57683) - Enhances Peryite's daedric quest, expanding the vanilla quest with new conversations, scenes and paths to complete the quest with or without cavorting with daedra
+
+- [College of Winterhold - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/66666) - Expands the college quest by ensuring that you actually learn some magic lessons before jumping into the college main questline
+
+- [Nilheim - Misc Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/53792) - Fixes some issues and gives more options for how to deal with the Nilhelm quest
+
+- [Caught Red Handed - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/65708)
+
+- [The Whispering Door - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/76606) - Expands on Mephala's daedric quest, expanding the vanilla quest with new conversations, scenes and paths to complete the quest with or without cavorting with daedra
+
+- [Innocence Lost - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/80974) - Expands on the Dark Brotherhood entry quest by giving new options to deal with Grelod
+
+There are also several mods that aim to improve upon the CC quest content
+
+- [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772) - Fully overhauls the Saints and Seducers creation by adding a fully-voiced quest that takes you back to the Shivering Isles from The Elder Scrolls IV Oblivion. 
+
+  > :video_game: To begin, you need to be at least level 20 and should have completed the Daedric Quest The Mind of Madness
+
+- [Fishing - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/80379) - Removes the fishing questline but retains the rest of the content
+
+- [The Cause - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/66676) - Removes the Cause questline but retains the rest of the content
+
+- [Bow of Shadows - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/81188) - Removes the associated Bow of Shadows quest and adds the item as static loot to the Morag Tong quest on Raven Rock
+
+- [Ghosts of the Tribunal - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/67019) - Removes the Ghosts of the Tribunal questline but retains the rest of the content
+
+- [Ayleid Lich Crown - Cut Content Restored](https://www.nexusmods.com/skyrimspecialedition/mods/58398) - Implements a wearable version of the Ayleid Lich King's crown from The Cause creation
+
+Other changes to quests include
+
+- [Improved Companions - Questline Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22300) - Actually back out of becoming a werewolf without leaving Skjor and Aela stuck in the Underforge forever, and various other tweaks for the Companions
+
+- [Save the Icerunner - Lights Out Alternate Routes](https://www.nexusmods.com/skyrimspecialedition/mods/34681) - Jaree-Ra in Solitude has a plan to set up a shipwreck. The ship is said to be full of weapons and riches, ripe for the taking. What will you do?
+
+- [Finding Helgi... and Laelette - A Laid to Rest Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/28973) - A home in Morthal burned down under mysterious circumstances; some say it was the murder of a wife and daughter. A woman leaves home without saying goodbye to her husband and son, ostensibly to join the war. Are these events connected? This is an overhaul of "Laid to Rest" and the third mod in the "Finding" series
+
+- [A Lovely Letter Alternate Routes](https://www.nexusmods.com/skyrimspecialedition/mods/21916) - Tell Sven and Faendal that you won't get involved in their quarrel, or expose both of them and gain Camilla's favor for yourself
+
+## Locations
+
+- [Capitals and Towns of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/50263) - Changes the minor hold capitals to make them stad out from just regular villages
