@@ -236,13 +236,7 @@ There are also several mods that aim to improve upon the CC quest content
 
   > :video_game: To begin, you need to be at least level 20 and should have completed the Daedric Quest The Mind of Madness
 
-- [Fishing - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/80379) - Removes the fishing questline but retains the rest of the content
-
-- [The Cause - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/66676) - Removes the Cause questline but retains the rest of the content
-
-- [Bow of Shadows - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/81188) - Removes the associated Bow of Shadows quest and adds the item as static loot to the Morag Tong quest on Raven Rock
-
-- [Ghosts of the Tribunal - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/67019) - Removes the Ghosts of the Tribunal questline but retains the rest of the content
+- [Ghosts of the Tribunal - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/67019) - Integrates ghosts of the tribunal content into the Dragonborn DLC and retains the quest
 
 - [Ayleid Lich Crown - Cut Content Restored](https://www.nexusmods.com/skyrimspecialedition/mods/58398) - Implements a wearable version of the Ayleid Lich King's crown from The Cause creation
 
