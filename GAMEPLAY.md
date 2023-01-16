@@ -25,10 +25,9 @@ On your journey through the Dragonborn version of Skyrim, you will find a perfor
 This guide highlights major mods included in Dragonborn in the following categories:
 
 - [Hotkeys](#hotkeys)
-- [Optional Quick Start](#optional-quick-start)
 - [Gameplay](#gameplay)
 - [User Interface and Camera](#user-interface-and-camera)
-- [Gear](#gear)
+- [Gear and Items](#gear-and-items)
 - [Followers and Companions](#followers-and-companions)
 - [Homes](#homes)
 - [Quests](#quests)
@@ -157,7 +156,7 @@ Dragonborn includes a minimalistic and modern UI, featuring:
 
 - [TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775) - Customizable actor info bars, boss bars, and player widget
 
-## Gear
+## Gear and Items
 
 Dragonborn uses [Antiquary - Enhanced Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/44413) to overhaul artifacts. In additon to this, there are mods and patches that balance Creation Club items and [Thamaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) takes care of balancing vanilla enchanted items and gear.
 
