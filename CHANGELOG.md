@@ -16,12 +16,19 @@
 
 # Changelog
 
-## Version 1.1.2 [Unreleased]
+## Version 1.1.2
+
+### Added
++ Retexture for Bread - Hearthfire
++ Happy Little Trees - Ivy on Trees
 
 ### Updated
 + Blade and Blunt
 + Blade and Blunt - Sneak Addon
 + Ancient Nord Armo(u)ry Lite
+
+### Removed
++ Realistic HD Food Remastered (Covered by other mods and breaks bruma stuff)
 
 ## Version 1.1.1
 
