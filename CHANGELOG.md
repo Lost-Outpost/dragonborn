@@ -16,6 +16,12 @@
 
 # Changelog
 
+## Version 1.1.1
+
+### Added
++ Cheesemod - Detailed Cities Patch
++ Yes I'm Sure
+
 ## Version 1.1.0
 
 In this update, I wanted to re-do the creation club integration a little bit to restore as many of the CC quests as possible. I don't think it's fair to just remove them entirely and I'd rather see them rebalanced or reworked where I can.
