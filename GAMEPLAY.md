@@ -239,6 +239,8 @@ Dragonborn includes [jayserpa's](https://www.nexusmods.com/skyrimspecialedition/
 
 There are also several mods that aim to improve upon the CC quest content
 
+- [Rebalancing AE - Quest Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/61004) - Delays several pieces of creation club content to later levels for balance purposes.
+
 - [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772) - Fully overhauls the Saints and Seducers creation by adding a fully-voiced quest that takes you back to the Shivering Isles from The Elder Scrolls IV Oblivion. 
 
   > :video_game: To begin, you need to be at least level 20 and should have completed the Daedric Quest The Mind of Madness
