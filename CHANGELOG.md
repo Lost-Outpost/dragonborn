@@ -21,6 +21,7 @@
 ### Updated
 + Blade and Blunt
 + Blade and Blunt - Sneak Addon
++ Ancient Nord Armo(u)ry Lite
 
 ## Version 1.1.1
 
