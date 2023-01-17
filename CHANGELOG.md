@@ -16,6 +16,12 @@
 
 # Changelog
 
+## Version 1.1.2 [Unreleased]
+
+### Updated
++ Blade and Blunt
++ Blade and Blunt - Sneak Addon
+
 ## Version 1.1.1
 
 ### Added
