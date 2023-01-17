@@ -172,9 +172,12 @@ Dragonborn uses [Antiquary - Enhanced Artifacts](https://www.nexusmods.com/skyri
 
 - [Dawnguard Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/25094) - Completes the Dawnguard weapon collection and distributes the armor weapons to the members as well.
 
-- [New Armory Series - Ashen Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/72728) 
-- [New Armory Series - Lunar Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/69438)
-- [New Armory Series - Elven Steel Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/78888)
+- [New Armory Series - Ashen Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/72728) - Adds new Ashen weapons to the Ash Spawn on Solstheim so your encounters with them will be more varied.
+
+- [New Armory Series - Lunar Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/69438) - Introduces a new range of Lunar steel weapons, and allows you to craft them at the Lunar Forge.
+
+- [New Armory Series - Elven Steel Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/78888) - Elven Steel will replace all normal Steel weapons on Thalmor, and will spawn in all level lists that also include normal Elven weapons.
+
 - [Royal Armory - New Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/6994) - New weapons to the important people of Skyrim
 
 ## Followers and Companions
