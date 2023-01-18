@@ -16,6 +16,15 @@
 
 # Changelog
 
+## Version 1.1.3
+
+### Added
++ Cathedral 3D Ferns
++ Sleeping Expanded
+
+### Updated
++ Root Builder MO2 Plugin
+
 ## Version 1.1.2
 
 ### Added
