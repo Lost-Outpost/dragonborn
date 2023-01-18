@@ -21,6 +21,7 @@
 ### Added
 + Cathedral 3D Ferns
 + Sleeping Expanded
++ Oxygen Meter 2
 
 ### Updated
 + Root Builder MO2 Plugin
