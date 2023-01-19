@@ -16,6 +16,20 @@
 
 # Changelog
 
+## Version 1.1.5
+
+### Added
++ Fortune's Tradehouse
++ Fortune's Tradehouse - Balance Patch
++ Fortune's Tradehouse - Navmesh fix
++ Simonrim Attack Speed Fix
+
+### Updated
++ Hand to Hand
++ Aetherius
++ Adamant
++ Dragonborn - Quick Start Tweaks
+
 ## Version 1.1.4
 
 ### Updated
