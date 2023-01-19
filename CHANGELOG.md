@@ -16,6 +16,11 @@
 
 # Changelog
 
+## Version 1.1.4
+
+### Updated
++ Pilgrim
+
 ## Version 1.1.3
 
 ### Added
