@@ -151,7 +151,7 @@ This means that any additional mods you have installed on top of the Modlist wil
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
-# Start Up
+# Startup
 
 Open the installation folder and double click on the program called `ModOrganizer.exe`.
 
