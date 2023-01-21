@@ -34,6 +34,7 @@
     - [Pagefile in prevention of memory crashes](#pagefile-in-prevention-of-memory-crashes)
   - [Steam Deck](#steam-deck)
 - [Updating](#updating)
+- [Startup](#startup)
 - [Issues](#issues)
 - [Dragonborn Team](#dragonborn-team)
 
@@ -149,6 +150,12 @@ If this Modlist receives an update, please check the [changelog](CHANGELOG.md) b
 This means that any additional mods you have installed on top of the Modlist will be deleted. Your saves will be kept, but please check each update changelog to see if the update is save compatible. Your downloads folder will not be touched!
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
+
+# Start Up
+
+Open the installation folder and double click on the program called `ModOrganizer.exe`.
+
+Make sure the dropdown box on the right is set to `Dragonborn` and press the Run button.
 
 # Issues
 
