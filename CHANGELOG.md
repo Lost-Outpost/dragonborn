@@ -16,6 +16,21 @@
 
 # Changelog
 
+## Version 1.1.6 [Unreleased]
+
+### Added
++ Ivy by Mari
++ Animated Forge Water
++ Cathedral 3d Sword Ferns
++ Oxygen Meter 2 (For real this time)
++ Mercantile - An Economy Overhaul (Early version with selling price changes)
+
+### Updated
++ Necromantic Grimoire - Mysticism Rebalance
+
+### Fixed
++ Reverted Pilgrim to fix missing shrines
+
 ## Version 1.1.5
 
 ### Added
