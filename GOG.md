@@ -15,6 +15,9 @@
 ---
 
 # Skyrim GOG Installs
+Dragonborn does support the GOG version of Skyrim. That said, there are a couple of extra steps to make sure things work smoothly. Please perform the following below and check them carefully before asking for support.
+
+## Instructions
 
 Make sure your Skyrim path is set to the GOG executable and NOT your steam folder. This one is set to my steam one so you know what that looks like.
 
