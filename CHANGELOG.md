@@ -30,7 +30,7 @@
 
 ### Added
 + Optional mod to restore to vanilla carry weights
-+ Mercantile - Survival Mode Patch
++ Merchant - Survival Mode Patch
 + Blade and Blunt Health regen module
 + Blade and Blunt Health regen module - survival mode patch
 
@@ -45,7 +45,7 @@
 + Animated Forge Water
 + Cathedral 3d Sword Ferns
 + Oxygen Meter 2 (For real this time)
-+ Mercantile - An Economy Overhaul (Early version with selling price changes)
++ Merchant - A Lightweight Economy Overhaul (A simple price tweak and carry weight mod)
 
 ### Updated
 + Necromantic Grimoire - Mysticism Rebalance
