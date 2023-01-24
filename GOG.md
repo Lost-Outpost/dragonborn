@@ -24,6 +24,6 @@ Enable GOG SKSE plugins in the GOG Support separator as seen below
 
 ![pagefile settings](https://raw.githubusercontent.com/Lost-Outpost/dragonborn/main/images/gog1.png)
 
-Make sure your Dragonborn SKSE path is set to your GOG folder and not a steam one
+Make sure your Dragonborn SKSE path is set to your GOG folder and not a steam one. This one is set to my steam one so you know what that looks like.
 
 ![pagefile settings](https://raw.githubusercontent.com/Lost-Outpost/dragonborn/main/images/gog2.png)
