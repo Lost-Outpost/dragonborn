@@ -24,6 +24,9 @@
 + Blade and Blunt Health regen module
 + Blade and Blunt Health regen module - survival mode patch
 
+### Updated
++ Pilgrim (Again)
+
 ## Version 1.1.6
 
 ### Added
