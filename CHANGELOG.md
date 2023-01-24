@@ -18,6 +18,8 @@
 
 ## Version 1.1.7
 
+***Note that I switched from the separate to combined version of the unofficial creation club patches. You can ignore the warnings on load***
+
 ### Added
 + Optional mod to restore to vanilla carry weights
 + Mercantile - Survival Mode Patch
@@ -26,6 +28,7 @@
 
 ### Updated
 + Pilgrim (Again)
++ Unofficial creation club patches
 
 ## Version 1.1.6
 
