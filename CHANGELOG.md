@@ -16,7 +16,15 @@
 
 # Changelog
 
-## Version 1.1.6 [Unreleased]
+## Version 1.1.7
+
+### Added
++ Optional mod to restore to vanilla carry weights
++ Mercantile - Survival Mode Patch
++ Blade and Blunt Health regen module
++ Blade and Blunt Health regen module - survival mode patch
+
+## Version 1.1.6
 
 ### Added
 + Ivy by Mari
