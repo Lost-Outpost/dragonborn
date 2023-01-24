@@ -33,6 +33,7 @@
       - [Problems with Wabbajack](#problems-with-wabbajack)
     - [Pagefile in prevention of memory crashes](#pagefile-in-prevention-of-memory-crashes)
   - [Steam Deck](#steam-deck)
+  - [Skyrim GOG](#skyrim-gog)
 - [Updating](#updating)
 - [Startup](#startup)
 - [Issues](#issues)
