@@ -16,6 +16,14 @@
 
 # Changelog
 
+## Version 1.1.8
+
+### Added
++ Skyrim GOG Edition supported
+
+### Fixed
++ Load order issue with creation club unofficial patch
+
 ## Version 1.1.7
 
 ***Note that I switched from the separate to combined version of the unofficial creation club patches. You can ignore the warnings on load***
