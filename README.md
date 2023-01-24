@@ -142,6 +142,10 @@ Bigger Skyrim modlists need a lot of memory, and when there is not enough availa
 
 This modlist can be played on Steam Deck and special care has been taken to make sure performance is acceptable there. You can view the steam deck install instructions [here](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/Skyrim-Dragonborn) after you finish the normal install.
 
+## Skyrim GOG
+
+This modlist can be played on the GOG version of Skyrim. You will need to do a couple of extra steps which are listed [here](GOG.md)
+
 # Updating
 
 If this Modlist receives an update, please check the [changelog](CHANGELOG.md) before doing anything. Always backup your saves or start a new game after updating.
