@@ -16,11 +16,11 @@
 
 # Skyrim GOG Installs
 
-Make sure your Skyrim path is set to the GOG executable
+Make sure your Skyrim path is set to the GOG executable and NOT your steam folder. This one is set to my steam one so you know what that looks like.
 
 ![pagefile settings](https://raw.githubusercontent.com/Lost-Outpost/dragonborn/main/images/gog.png)
 
-Enable GOG SKSE plugins in the GOG Support separator as seen below
+Enable GOG SKSE plugins in the GOG Support separator as seen below. They will overwrite the steam versions so they work with GOG now.
 
 ![pagefile settings](https://raw.githubusercontent.com/Lost-Outpost/dragonborn/main/images/gog1.png)
 
