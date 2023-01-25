@@ -16,6 +16,11 @@
 
 # Changelog
 
+## Version 1.1.9
+
+### Fixed
++ Merchant optional vanilla carryweight fixed
+
 ## Version 1.1.8
 
 ### Added
