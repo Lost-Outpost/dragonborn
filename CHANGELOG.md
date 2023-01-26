@@ -16,6 +16,14 @@
 
 # Changelog
 
+## Version 1.1.10
+
+### Added
++ Brewer - An Alcohol Brewing Mod
+
+### Updated
++ Hand to Hand - An Adamant Addon
+
 ## Version 1.1.9
 
 ### Fixed
