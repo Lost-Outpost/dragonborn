@@ -16,6 +16,34 @@
 
 # Changelog
 
+## Version 1.2.0
+
+### Added
++ Trapper - A Hunting Expansion
++ Kachunk - Rare Curios Bolts Expanded Patch
++ Abyss + Adamant Patch
++ Dovakiin's Vault - Earlier Start
++ CC Alternative Armors - Quest Removal Enchanted Variants and Proper Distribution for Thaumaturgy
++ CC Alternative Armors - Restore Quests (Custom Patch)
+
+### Updated
++ Hand to Hand
++ Natura
++ Brewer
++ Custom Natura + Abyss + Lunaris Integration
++ Bandit Spellswords
++ ELFX Shadows
++ NPCs Wear Amulets
++ QUI
++ Formlist Manipulator
++ Chapter II
+
+### Removed
++ Immersive Dungeons
++ Spriggan Earthmothers around skyrim
++ Bleak Falls Barrow Web Mother - CC The Contest Addon
++ On A Crimson Trail
+
 ## Version 1.1.10
 
 ### Added
