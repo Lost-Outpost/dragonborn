@@ -16,7 +16,7 @@
 
 # Changelog
 
-## Version 1.2.0
+## Version 1.2.0 [Unreleased]
 
 ### Added
 + Trapper - A Hunting Expansion
