@@ -28,6 +28,7 @@
 + Run for your lives
 + Enhanced Map Terrain
 + Penitus Oculatus
++ Skyland - Noble Furniture
 
 ### Updated
 + Hand to Hand
