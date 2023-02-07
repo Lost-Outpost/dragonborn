@@ -19,7 +19,7 @@
 ## Version 1.2.0
 
 ### Added
-+ Trapper - A Hunting Expansion
++ Huntsman - A Hunting Expansion
 + Kachunk - Rare Curios Bolts Expanded Patch
 + Abyss + Adamant Patch
 + Dovakiin's Vault - Earlier Start
