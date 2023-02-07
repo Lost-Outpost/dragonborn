@@ -25,6 +25,9 @@
 + Dovakiin's Vault - Earlier Start
 + CC Alternative Armors - Quest Removal Enchanted Variants and Proper Distribution for Thaumaturgy
 + CC Alternative Armors - Restore Quests (Custom Patch)
++ Run for your lives
++ Enhanced Map Terrain
++ Penitus Oculatus
 
 ### Updated
 + Hand to Hand
@@ -37,6 +40,7 @@
 + QUI
 + Formlist Manipulator
 + Chapter II
++ Necromantic Grimoire - Adamant Patch
 
 ### Removed
 + Immersive Dungeons
