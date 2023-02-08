@@ -16,6 +16,15 @@
 
 # Changelog
 
+## Version 1.2.1
+
+### Added
++ Skyland Common and Upper Furniture
+
+### Updated
++ Draugr Warhounds - Less spawns in general
++ ENBSeries Binaries
+
 ## Version 1.2.0
 
 ### Added
