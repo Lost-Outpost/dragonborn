@@ -16,6 +16,16 @@
 
 # Changelog
 
+## Version 1.2.2
+
+### Added
++ Saints and Seducers Extended Cut - Apothecary Patch
++ Merchant - Coherent Inn Prices Patch
+
+### Updated
++ Skyland Common and Upper Furniture
++ Merchant (Added carriage price tweaks)
+
 ## Version 1.2.1
 
 ### Added
