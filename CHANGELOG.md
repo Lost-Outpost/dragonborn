@@ -25,6 +25,7 @@
 ### Updated
 + Skyland Common and Upper Furniture
 + Merchant (Added carriage price tweaks)
++ Draugr Warhounds (Additional HP nerfs.. should be reasonable now LOL)
 
 ## Version 1.2.1
 
