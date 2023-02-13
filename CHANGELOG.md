@@ -35,7 +35,7 @@
 + Better Windhelm Ground Meshes (With Parallax)
 
 ### Updated
-+ Huntsman -A Hunting Expansion
++ Huntsman - A Hunting Expansion
 
 ### Removed
 + Tempered Skins
