@@ -16,6 +16,30 @@
 
 # Changelog
 
+## Version 1.2.3 [Unreleased]
+
+### Added
++ The Omnibus - Complex Parallax Terrain
++ Farmhouse Stonewalls - Complex Parallax
++ Caves - Complex Parallax
++ Pelts - Complex Parallax
++ Vitruvia - Male Skin
++ Reverie - Female Skin
++ Atlantean Snow - Complex Parallax
++ Atlantean Shores - Riverbeds
++ Skyland Forts - Parallax
++ Skyland Mines - Parallax
++ Bloodmoon
++ Rally's Solstheim Landscape - Complex Parallax
++ Auto Parallax
++ Better Windhelm Ground Meshes (With Parallax)
+
+### Updated
++ Huntsman -A Hunting Expansion
+
+### Removed
++ Tempered Skins
+
 ## Version 1.2.2
 
 ### Added
