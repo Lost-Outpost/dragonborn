@@ -16,7 +16,7 @@
 
 # Changelog
 
-## Version 1.2.3 [Unreleased]
+## Version 1.2.3
 
 ### Added
 + The Omnibus - Complex Parallax Terrain
