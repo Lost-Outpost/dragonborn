@@ -16,7 +16,7 @@
 
 # Changelog
 
-## Version 1.2.4
+## Version 1.2.4 [Unreleased]
 
 ### Fixed
 + Water seam in riverwood (cringe)
