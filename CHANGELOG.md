@@ -26,6 +26,7 @@
 + Better windhelm ground meshes
 + Vampire Lines Expansion
 + Embers XD (Vanilla fire)
++ Mari's Flora
 
 ### Updated
 + Destination Weddings
@@ -41,6 +42,7 @@
 + Reverie/Vitruvia (Using nordic faces defaults)
 + KS Hairs Lite (Nahhhhh)
 + Embers HD
++ Cathedral 3D Plants
 
 ### Fixed
 + Water seam in riverwood (cringe)
