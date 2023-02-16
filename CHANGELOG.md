@@ -18,7 +18,11 @@
 
 ## Version 1.3.0 [Unreleased]
 
+### Added
++ Modular Armory (Switched back to this for smaller size)
+
 ### Removed
++ Cathedral Armory
 + A bunch of bloat (I'm going to let you figure out if you miss them)
 
 ### Fixed
