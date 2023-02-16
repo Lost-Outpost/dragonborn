@@ -55,8 +55,6 @@ Icons in this guide:
 
 - <kbd>F</kbd> - In inventory, favorite selected item
 
-- <kbd>L</kbd> - Toggles lantern, provided you've crafted and equipped a [Simple Wearable Lantern](https://www.nexusmods.com/skyrimspecialedition/mods/58464)
-
 - <kbd>R</kbd> - Drop selected item in inventory, or take all items from container
 
 - <kbd>Q</kbd> - Opens up [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604) favorites menu
