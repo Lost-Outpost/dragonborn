@@ -35,7 +35,7 @@
 + Lunar Armory (Confusing mechanics, not well implemented)
 + Skyland AIO (Most of it was already covered)
 + Skyland Furniture (Not happy with the colors)
-+ A bunch of bloat (I'm going to let you figure out if you miss them)
++ A bunch of visual bloat
 
 ### Fixed
 + Water seam in riverwood (cringe)
