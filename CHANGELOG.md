@@ -28,6 +28,7 @@
 ### Updated
 + Destination Weddings
 + Dragonborn Skyrim Uncapper Preset (Much more vanilla leveling)
++ Skyrim Extended Cut - Saints and Seducers
 
 ### Removed
 + Cathedral Armory
