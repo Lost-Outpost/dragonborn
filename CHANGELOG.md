@@ -36,6 +36,7 @@
 + Skyland AIO (Most of it was already covered)
 + Skyland Furniture (Not happy with the colors)
 + A bunch of visual bloat
++ Reverie/Vitruvia (Using nordic faces defaults)
 
 ### Fixed
 + Water seam in riverwood (cringe)
