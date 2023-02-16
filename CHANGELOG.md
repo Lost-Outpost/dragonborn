@@ -19,10 +19,20 @@
 ## Version 1.3.0 [Unreleased]
 
 ### Added
-+ Modular Armory (Switched back to this for smaller size)
++ Modular Armory + Crash Fix
++ Simplicity of Snow + Blended Roads Patch
++ Shaders of Solstheim
++ Skyland Mountains
+
+### Updated
++ Destination Weddings
++ Dragonborn Skyrim Uncapper Preset (Much more vanilla leveling)
 
 ### Removed
 + Cathedral Armory
++ Elven Steel (Most assets looked weird)
++ Lunar Armory (Confusing mechanics, not well implemented)
++ Skyland AIO (Most of it was already covered)
 + A bunch of bloat (I'm going to let you figure out if you miss them)
 
 ### Fixed
