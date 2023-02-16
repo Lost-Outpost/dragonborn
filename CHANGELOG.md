@@ -25,6 +25,7 @@
 + Skyland Mountains
 + Better windhelm ground meshes
 + Vampire Lines Expansion
++ Embers XD (Vanilla fire)
 
 ### Updated
 + Destination Weddings
@@ -39,6 +40,7 @@
 + Skyland Furniture (Not happy with the colors)
 + Reverie/Vitruvia (Using nordic faces defaults)
 + KS Hairs Lite (Nahhhhh)
++ Embers HD
 
 ### Fixed
 + Water seam in riverwood (cringe)
