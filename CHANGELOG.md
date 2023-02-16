@@ -24,6 +24,7 @@
 + Shaders of Solstheim
 + Skyland Mountains
 + Better windhelm ground meshes
++ Vampire Lines Expansion
 
 ### Updated
 + Destination Weddings
