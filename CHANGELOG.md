@@ -16,7 +16,10 @@
 
 # Changelog
 
-## Version 1.2.4 [Unreleased]
+## Version 1.3.0
+
+### Removed
++ A bunch of bloat (I'm going to let you figure out if you miss them)
 
 ### Fixed
 + Water seam in riverwood (cringe)
