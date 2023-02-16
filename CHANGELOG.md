@@ -16,7 +16,7 @@
 
 # Changelog
 
-## Version 1.3.0
+## Version 1.3.0 [Unreleased]
 
 ### Removed
 + A bunch of bloat (I'm going to let you figure out if you miss them)
