@@ -23,6 +23,7 @@
 + Cooking Categories Improvement
 + HD Reworked Farmhouses (Compressed)
 + Rustic Clothing (Compressed)
++ Bellyache's Animals and Creatures (Compressed)
 
 ### Updated
 + Modular Armory (Compressed to lower res to save vram and space)
