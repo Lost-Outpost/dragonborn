@@ -16,7 +16,7 @@
 
 # Changelog
 
-## Version 1.3.1 [Unreleased]
+## Version 1.3.1
 
 ### Added
 + Skyland AIO 1k (Nearly identical to the 2k version and much smaller)
@@ -24,6 +24,7 @@
 + HD Reworked Farmhouses (Compressed)
 + Rustic Clothing (Compressed)
 + Bellyache's Animals and Creatures (Compressed)
++ Cathedral 3D Plants (Desaturated and Rescaled)
 
 ### Updated
 + Modular Armory (Compressed to lower res to save vram and space)
