@@ -22,6 +22,7 @@
 + Skyland AIO 1k (Nearly identical to the 2k version and much smaller)
 + Cooking Categories Improvement
 + HD Reworked Farmhouses (Compressed)
++ Rustic Clothing (Compressed)
 
 ### Updated
 + Modular Armory (Compressed to lower res to save vram and space)
