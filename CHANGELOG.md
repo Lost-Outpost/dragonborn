@@ -23,6 +23,9 @@
 + Cooking Categories Improvement
 + HD Reworked Farmhouses (Compressed)
 
+### Updated
++ Modular Armory (Compressed to lower res to save vram and space)
+
 ## Version 1.3.0
 
 ### Added
