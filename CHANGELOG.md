@@ -16,6 +16,13 @@
 
 # Changelog
 
+## Version 1.3.1
+
+### Added
++ Skyland AIO 1k (Nearly identical to the 2k version and much smaller)
++ Cooking Categories Improvement
++ HD Reworked Farmhouses (Compressed)
+
 ## Version 1.3.0
 
 **This update includes some pretty major changes to textures for the sake of keeping the list size down. That said, please give it a shot and give me some feedback on the "worst of the worst" texture wise and I'll be updating as we go.**
