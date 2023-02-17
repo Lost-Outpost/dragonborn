@@ -16,7 +16,7 @@
 
 # Changelog
 
-## Version 1.3.0 [Unreleased]
+## Version 1.3.0
 
 **This update includes some pretty major changes to textures for the sake of keeping the list size down. That said, please give it a shot and give me some feedback on the "worst of the worst" texture wise and I'll be updating as we go.**
 
