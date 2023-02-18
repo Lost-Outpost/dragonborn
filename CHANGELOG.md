@@ -27,6 +27,7 @@
 + Bloomoon
 + Natura
 + Abyss
++ Skyrim Skill Uncapper (Custom leveling rates)
 
 ## Version 1.3.1
 
