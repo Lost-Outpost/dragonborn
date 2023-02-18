@@ -16,6 +16,14 @@
 
 # Changelog
 
+## Version 1.3.2 [Unreleased]
+
+### Updated
++ Modular Armory (Use pre-packed 1k version)
++ Bloomoon
++ Natura
++ Abyss
+
 ## Version 1.3.1
 
 ### Added
