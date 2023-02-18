@@ -16,6 +16,24 @@
 
 # Changelog
 
+## Version 1.3.3 [Unreleased]
+
+### Updated
++ Po3's papyrus extender
++ SPID
++ Po3's Tweaks
++ Improvement Names Customized AE
++ CritterSpawn Congestion Fix
++ Assorted Mesh Fixes
++ Dyndolod resources
++ Animated Forge Water
++ Atherius
++ Mundus
++ Hand to Hand - Adamant addon
++ Blade and Blunt
++ Skyrim's Got Talent
++ Saints and Seducers - Mysticism Rebalance
+
 ## Version 1.3.2
 
 ### Added
