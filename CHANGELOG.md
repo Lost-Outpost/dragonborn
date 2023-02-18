@@ -18,6 +18,11 @@
 
 ## Version 1.3.2 [Unreleased]
 
+### Added
++ Bloodmoon Spells for Vampires
++ Bloodmoon Spells for Serana
++ Abyss Spells or NPCs
+
 ### Updated
 + Modular Armory (Use pre-packed 1k version)
 + Bloomoon
