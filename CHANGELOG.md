@@ -21,7 +21,7 @@
 ### Added
 + Bloodmoon Spells for Vampires
 + Bloodmoon Spells for Serana
-+ Abyss Spells or NPCs
++ Abyss Spells for NPCs
 
 ### Updated
 + Modular Armory (Use pre-packed 1k version)
