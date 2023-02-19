@@ -33,6 +33,10 @@
 + Blade and Blunt
 + Skyrim's Got Talent
 + Saints and Seducers - Mysticism Rebalance
++ College of Winterhold - Quest Expansion
++ Innocence Lost - Quest Expansion
++ More to Say
++ Ancient Nord Armo(u)ry Lite
 
 ## Version 1.3.2
 
