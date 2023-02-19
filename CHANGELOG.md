@@ -16,7 +16,7 @@
 
 # Changelog
 
-## Version 1.3.3 [Unreleased]
+## Version 1.3.3
 
 ### Updated
 + Po3's papyrus extender
