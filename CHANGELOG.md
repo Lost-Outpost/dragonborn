@@ -38,6 +38,9 @@
 + More to Say
 + Ancient Nord Armo(u)ry Lite
 
+### Removed
++ Cleaned out some unused files
+
 ## Version 1.3.2
 
 ### Added
