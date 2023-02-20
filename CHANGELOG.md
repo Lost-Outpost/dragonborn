@@ -16,6 +16,15 @@
 
 # Changelog
 
+## Version 1.3.5 [Unreleased]
+
+### Added
++ Custom Kachunk Vendor Distribution Patch
++ Balance Changes to Imitations Armors
+
+### Fixed
++ Some LODs Flickering
+
 ## Version 1.3.4
 
 ### Added
