@@ -16,6 +16,15 @@
 
 # Changelog
 
+## Version 1.3.4
+
+### Added
++ Parallax Bridges
++ Serene Shores
+
+### Updated
++ Vampires Lines Expansion (Fixes occasional crashes)
+
 ## Version 1.3.3
 
 ### Updated
