@@ -16,7 +16,7 @@
 
 # Changelog
 
-## Version 1.3.5 [Unreleased]
+## Version 1.3.5
 
 ### Added
 + Custom Kachunk Vendor Distribution Patch
