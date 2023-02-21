@@ -16,6 +16,17 @@
 
 # Changelog
 
+## Version 1.3.6
+
+### Added
++ Merchant + Sell Price Addon + CC Fish Addon
++ Werewolf animation fix
++ Drier Cathedral 3D Clovers
++ NVIDIA Reflex Support (Optional)
+
+### Fixed
++ Bridge blending issue
+
 ## Version 1.3.5
 
 ### Added
