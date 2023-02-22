@@ -16,6 +16,15 @@
 
 # Changelog
 
+## Version 1.3.7
+
+### Added
++ Discord Rich Presence
++ Hallgarth's Additional Hair
+
+### Updated
++ Improved Facegen
+
 ## Version 1.3.6
 
 ### Added
