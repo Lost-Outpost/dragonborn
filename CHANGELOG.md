@@ -25,6 +25,7 @@
 ### Updated
 + Improved Facegen
 + Sexier Civil War Champions - Restore Quest
++ Skyland AIO
 
 ## Version 1.3.6
 
