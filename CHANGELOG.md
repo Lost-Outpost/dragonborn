@@ -24,6 +24,7 @@
 
 ### Updated
 + Improved Facegen
++ Sexier Civil War Champions - Restore Quest
 
 ## Version 1.3.6
 
