@@ -20,7 +20,7 @@
   - [List Contents](#list-contents)
   - [Minimum Specs](#minimum-specs)
   - [Community](#community)
-  - [Skyrim: Anniversary Edition](#Skyrim:-Anniversary-Edition)
+  - [Skyrim: Anniversary Edition](#Skyrim-Anniversary-Edition)
 - [Installation](#installation)
   - [Pre-Install](#pre-install)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
