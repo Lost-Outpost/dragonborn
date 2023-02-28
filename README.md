@@ -20,6 +20,7 @@
   - [List Contents](#list-contents)
   - [Minimum Specs](#minimum-specs)
   - [Community](#community)
+  - [Skyrim: Anniversary Edition](#Skyrim: Anniversary Edition)
 - [Installation](#installation)
   - [Pre-Install](#pre-install)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
@@ -58,7 +59,7 @@ Users have reported running the list fine with as low as a Ryzen 1300x and a GTX
 
 Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu) server and in the [Issues](https://github.com/Guitarninja2/septimus/issues) section of the Dragonborn GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in The Lost Outpost Discord server's support channel.
 
-## Skyrim: Anniversary Edition (AE)
+## Skyrim: Anniversary Edition
 
 This list requires anniversary edition and all creation club content. Make sure your game is fully up to date in Steam. It will automatically be patched by Wabbajack to work out of the box, but requires the latest game files. You _must_ download all the creation club content before installing.
 
