@@ -40,6 +40,7 @@
 ### Removed
 + Embers XD
 + Cheesemod
++ Dovakiin's Vault
 
 ## Version 1.3.7
 
