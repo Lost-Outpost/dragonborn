@@ -18,7 +18,7 @@
 
 ## Version 1.4.0 [Unreleased]
 
-**Now that Simplicity of Skyrim exists and is very tiny, I'm okay with there being 2K textures across the board here.**
+**Now that [Simplicity of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/85943) exists and is very tiny, I'm okay with there being 2K textures across the board here.**
 
 ### Added
 + Ammo Enchanting
