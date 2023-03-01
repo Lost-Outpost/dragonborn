@@ -16,6 +16,31 @@
 
 # Changelog
 
+## Version 1.4.0 [Unreleased]
+
+**Now that Simplicity of Skyrim exists and is very tiny, I'm okay with there being 2K textures across the board here.**
+
+### Added
++ Ammo Enchanting
++ Inventory Interface Information Injector
++ Streamlined Fishing
++ Prisoner Cart Fix
++ Combat Music Fix - Papyrus
++ Embers HD
++ Skyland AIO - 2K
++ Modular Armory - 2K
+
+### Updated
++ Kachunk
++ Tamrielic Distribution
++ Cooking Categories Improvement
++ Mysticism
++ Hand to Hand - An Adamant Adddon
+
+### Removed
++ Embers XD
++ Cheesemod
+
 ## Version 1.3.7
 
 ### Added
