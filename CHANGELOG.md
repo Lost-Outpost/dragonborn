@@ -36,6 +36,8 @@
 + Cooking Categories Improvement
 + Mysticism
 + Hand to Hand - An Adamant Adddon
++ Bloodmoon
++ Lunaris
 
 ### Removed
 + Embers XD
