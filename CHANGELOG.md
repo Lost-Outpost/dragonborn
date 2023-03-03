@@ -23,6 +23,7 @@
 + Compass Navigation Overhaul
 + ERM - Enhanced Rocks and Mountains
 + Word Wall Transparency Fix
++ ENB Imod Separator
 
 ## Version 1.4.0
 
