@@ -16,6 +16,16 @@
 
 # Changelog
 
+## Version 1.4.2 [Unreleased]
+
+### Added
++ Skyforge Steel - Art and Honor
++ Skyforge Steel - Better Shaped Weapons
++ ERM - Enhanced Rocks and Mountains (Fixed)
++ Moon Monk Robes
++ Lunar Guard Armor
++ Tamrielic Distribution - Lunar Guard Armor + Moon Monk Robes
+
 ## Version 1.4.1.1
 
 ### Removed
