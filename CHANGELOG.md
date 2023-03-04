@@ -16,7 +16,7 @@
 
 # Changelog
 
-## Version 1.4.2 [Unreleased]
+## Version 1.4.2
 
 ### Added
 + Skyforge Steel - Art and Honor
