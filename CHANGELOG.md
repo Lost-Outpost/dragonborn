@@ -16,7 +16,7 @@
 
 # Changelog
 
-## Version 1.4.3 [Unreleased]
+## Version 1.4.3
 
 ### Added
 + Cathedral - 3D Thicket and Dead Shrub
