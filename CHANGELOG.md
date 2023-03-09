@@ -24,6 +24,8 @@
 ### Updated
 + Merchant - A Trading Expansion
 + Ammo Enchanting
++ DynDOLOD Output (More performance to be expected)
++ Ancient Knowledge - Automation Summoning
 
 ## Version 1.4.2.1
 
