@@ -16,6 +16,15 @@
 
 # Changelog
 
+## Version 1.4.3 [Unreleased]
+
+### Added
++ Cathedral - 3D Thicket and Dead Shrub
+
+### Updated
++ Merchant - A Trading Expansion
++ Ammo Enchanting
+
 ## Version 1.4.2.1
 
 ### Removed
