@@ -29,14 +29,14 @@ Septimus is an extensive modlist full of carefully chosen new gear, spells, ques
 
 ## List Contents
 
-You can browse the full list contents [here](https://loadorderlibrary.com/lists/dragonborn-a-minimalist-modlist) if you want to know exactly what you're getting.
+You can browse the full list contents [here](https://loadorderlibrary.com/lists/septimus) if you want to know exactly what you're getting.
 
 ## Minimum Specs
 Users have reported running the list fine with as low as a Ryzen 1300x and a GTX960. You may need to adjust settings with systems this low but it should run fine and still look great!
 
 ## Community
 
-Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu) server and in the [Issues](https://github.com/Lost-Outpost/dragonborn/issues) section of the Dragonborn GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in The Lost Outpost Discord server's support channel.
+Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu) server and in the [Issues](https://github.com/Lost-Outpost/septimus/issues) section of the Septimus GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in The Lost Outpost Discord server's support channel.
 
 ## Skyrim: Anniversary Edition
 
