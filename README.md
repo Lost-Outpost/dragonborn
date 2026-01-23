@@ -75,9 +75,9 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 
 The download and installation process can take a little while (an hour or more) depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
-1. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "Dragonborn"
+1. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "Septimus"
 2. Go back to your drive, and create a new folder, called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish
-3. Download the latest release of `Dragonborn` from the Wabbajack Browse Modlists page
+3. Download the latest release of `Septimus` from the Wabbajack Browse Modlists page
 4. Select the created folder in step 1 as your installation folder
 5. Select the created folder in step 2 as your downloads folder
 6. Click the Go/Begin button and wait for Wabbajack to finish
@@ -100,11 +100,11 @@ Updating is like installing. You only have to make sure that you select the same
 
 Open the installation folder and double click on the program called `ModOrganizer.exe`.
 
-Make sure the dropdown box on the right is set to `Dragonborn` and press the Run button.
+Make sure the dropdown box on the right is set to `Septimus` and press the Run button.
 
 # Issues
 
-For issues, you can provide details in the [Dragonborn Github](https://github.com/Lost-Outpost/dragonborn/issues). Please provide as much info as you can (screenshots are great).
+For issues, you can provide details in the [Septimus Github](https://github.com/Lost-Outpost/dragonborn/issues). Please provide as much info as you can (screenshots are great).
 
-Finally, free feel to hop on the Dragonborn Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu).
+Finally, free feel to hop on the Septimus Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu).
 
