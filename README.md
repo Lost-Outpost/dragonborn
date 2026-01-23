@@ -25,7 +25,7 @@
 
 # Introduction
 
-Dragonborn is a lightweight Skyrim modlist with the absolute minimum fixes, gameplay balance changes and new content that can be customized to your liking. It's intended to have decent longevity and not require many updates, especially those that could cause you to need to start over.
+Septimus is an extensive modlist full of carefully chosen new gear, spells, quests, and personal touches, all designed to fit seamlessly into the game. It contains optional lightweight survival and full anniversary edition creation club integration. It's designed to look beautiful while maintaining a stable framerate on almost any machine.
 
 ## List Contents
 
