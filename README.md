@@ -88,7 +88,7 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 
 # Updating
 
-If this Modlist receives an update, please check the [changelog](https://www.nexusmods.com/skyrimspecialedition/mods/125198) before doing anything. Always backup your saves or start a new game after updating.
+If this Modlist receives an update, please check the [changelog](https://www.nexusmods.com/skyrimspecialedition/mods/170600) before doing anything. Always backup your saves or start a new game after updating.
 
 **Wabbajack will delete all files that are not part of the Modlist when updating!**
 
